@@ -1,4 +1,4 @@
-import { sum } from "./index";
+import { sum } from "./index.js";
 import { expect } from "./node_modules/jest";
 
 test("Add 1 + 2 to be equal to 3", () => {
